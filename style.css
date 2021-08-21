@@ -1,0 +1,64 @@
+.header_div img {
+    width: 100px;
+}
+
+body {
+    font-family: "Special Elite", cursive;
+    background: rgb(98, 0, 255)
+}
+
+.main_div {
+    background: #00a2ff;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera,
+#result {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+
+}
+
+.footer_div h4 {
+    background-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px goldenrod;
+}
+
+.footer_div img {
+    width: 80px;
+}
+
+.copywriter_footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: green;
+    text-align: center;
+    background-color: rgb(0, 255, 255);
+    line-height: 3;
+}
